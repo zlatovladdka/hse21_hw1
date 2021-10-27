@@ -37,7 +37,7 @@ time platanus gap_close -o Poil -t 2 -c Poil_contig.fa -IP1 R1_pair.fastq.trimme
 ![](img/stats1.png)
 ![](img/plot1.png)
 ## Постобработка
-### Постобработка выполнена в src/analysis.ipynb.
+### Постобработка выполнена в src/analysis.ipynb
 ![](img/cont.png)
 ![](img/scaff.png)
 ![](img/gap.png)
