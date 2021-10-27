@@ -31,7 +31,9 @@ time platanus gap_close -o Poil -t 2 -c Poil_contig.fa -IP1 R1_pair.fastq.trimme
 ## Результаты multiqc
 
 ### Исходные чтения
-
+![](img/stats.png)
+![](img/plot.png)
 ### После подрезки
-
+![](img/stats1.png)
+![](img/plot1.png)
 ## Постобработка
